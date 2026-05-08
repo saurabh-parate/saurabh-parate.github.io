@@ -65,9 +65,9 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Get in Touch",
+    "title": "Contact",
     "section": "",
-    "text": "I’d love to connect! Feel free to reach out through any of the channels below.\n\n📧 Email: contact@saurabhp.com\n💼 LinkedIn: saurabh-parate\n🌐 Portfolio: saurabhp.com"
+    "text": "I’d love to connect! Fill out the form below or reach out directly."
   },
   {
     "objectID": "projects.html",
@@ -173,5 +173,19 @@
     "title": "Projects",
     "section": "",
     "text": "MSDM Capstone Project · Cal Poly Pomona Fall 2025 – Summer 2026\n\nDeveloping a data-driven framework to measure and justify the ROI of community engagement for Ontario International Airport (ONT).\n\nClient: Ontario International Airport — Community Engagement Team\nThe Challenge: ONT’s Community Engagement Team is highly active at events, sponsorships, and civic collaborations — but lacked a way to quantify the revenue impact of these efforts.\nWhat I’m doing: - Developing metrics and models linking engagement activities to business outcomes - Identifying leading indicators that predict long-term revenue growth - Exploring cross-industry ROI measurement frameworks - Proposing geotargeting and digital methods to track post-event audience behavior\nMethods: Descriptive analytics · Predictive analytics · Surveys & Interviews · SEO · Dashboard Design\nTimeline:\n\n\n\nPhase\nPeriod\nFocus\n\n\n\n\nPhase 1\nFall 2025\nResearch instruments, data collection\n\n\nPhase 2\nSpring 2026\nData analysis, KPIs, ROI framework\n\n\nPhase 3\nSummer 2026\nPublic report, final presentation\n\n\n\nSkills Gained: - Marketing research & analytics - Data modeling and visualization - Digital marketing attribution (geotargeting, campaign analytics) - Survey/interview design - SEO & web publishing\n\n\n\n\nMajor Project · Amity University Aug 2023 – Jan 2024\nExplored the role of VR and AR technologies in modern digital marketing strategies, analyzing how immersive experiences impact consumer behavior and brand engagement.\n\n\n\n\nMinor Project · Amity University Feb 2023 – Jun 2023\nInvestigated how gamification techniques can be applied in digital marketing campaigns to boost user engagement, retention, and conversion rates."
+  },
+  {
+    "objectID": "contact.html#send-a-message",
+    "href": "contact.html#send-a-message",
+    "title": "Contact",
+    "section": "📬 Send a Message",
+    "text": "📬 Send a Message\n\n\n&lt;label for=\"name\"&gt;&lt;strong&gt;Name&lt;/strong&gt;&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" placeholder=\"Your Name\"\nrequired style=\"width:100%; padding:0.5rem; margin-top:0.3rem;\"&gt;\n\n\n&lt;label for=\"email\"&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/label&gt;&lt;br&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" placeholder=\"your@email.com\"\nrequired style=\"width:100%; padding:0.5rem; margin-top:0.3rem;\"&gt;\n\n\n&lt;label for=\"message\"&gt;&lt;strong&gt;Message&lt;/strong&gt;&lt;/label&gt;&lt;br&gt;\n&lt;textarea id=\"message\" name=\"message\" rows=\"5\" placeholder=\"Your message...\"\nrequired style=\"width:100%; padding:0.5rem; margin-top:0.3rem;\"&gt;&lt;/textarea&gt;\n\n\nSend Message"
+  },
+  {
+    "objectID": "contact.html#other-ways-to-reach-me",
+    "href": "contact.html#other-ways-to-reach-me",
+    "title": "Contact",
+    "section": "📌 Other Ways to Reach Me",
+    "text": "📌 Other Ways to Reach Me\n\n📧 Email: contact@saurabhp.com\n💼 LinkedIn: saurabh-parate\n🌐 Portfolio: saurabhp.com"
   }
 ]

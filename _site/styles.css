@@ -1,3 +1,4 @@
+/* Profile photo */
 .profile-photo {
   width: 160px;
   height: 160px;
@@ -6,4 +7,39 @@
   display: block;
   margin: 0 auto 1rem auto;
   border: 3px solid #375a7f;
+  transition: transform 0.3s ease;
+}
+
+.profile-photo:hover {
+  transform: scale(1.05);
+}
+
+/* Fade in on load */
+main {
+  animation: fadeIn 0.8s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Navbar blur */
+.navbar {
+  backdrop-filter: blur(10px);
+}
+
+/* Links */
+a {
+  transition: opacity 0.2s ease;
+}
+
+a:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+/* Bullet spacing */
+ul li {
+  margin-bottom: 0.4rem;
 }
