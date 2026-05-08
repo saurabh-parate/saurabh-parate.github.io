@@ -18,6 +18,17 @@ website:
         text: Blog
       - href: contact.qmd
         text: Contact
+  page-footer:
+    background: dark
+    left: "© 2025 Saurabh Parate"
+    center: "Built with [Quarto](https://quarto.org)"
+    right:
+      - icon: envelope
+        href: mailto:contact@saurabhp.com
+      - icon: linkedin
+        href: https://linkedin.com/in/saurabh-parate
+      - icon: globe
+        href: https://saurabhp.com
 
 format:
   html:
