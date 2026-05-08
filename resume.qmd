@@ -1,0 +1,31 @@
+---
+title: "Resume / CV"
+---
+
+## Experience
+
+### Student Digital Marketing Assistant
+**Cal Poly Pomona** | 2022 – Present
+
+- Managed 100+ website pages for SEO and user experience
+- Managed a $10K Google Ads Grant campaign
+- Contributed to campaigns generating 600+ qualified leads
+
+---
+
+## Skills
+
+- SEO & Website Optimization
+- Google Analytics (GA4), Tag Manager & Looker Studio
+- Paid Media (Google Ads, Meta Ads, LinkedIn Ads)
+- CMS-Based Website Management (Cascade CMS)
+- Performance Marketing & Data Analysis
+
+---
+
+## Education
+
+### Bachelor's Degree
+**Cal Poly Pomona**
+
+[Download CV](your-cv.pdf)

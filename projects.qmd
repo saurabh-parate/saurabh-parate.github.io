@@ -1,0 +1,22 @@
+---
+title: "Projects"
+---
+
+## Website SEO & Content Optimization
+Improved structure, navigation, and search visibility across large-scale CMS websites.
+
+**Tools used:** Cascade CMS, Google Search Console, Screaming Frog
+
+---
+
+## Paid Media Campaigns
+Supported Google Ads and Meta Ads campaigns focused on lead generation and performance optimization.
+
+**Tools used:** Google Ads, Meta Ads Manager
+
+---
+
+## Analytics & Reporting
+Built dashboards and tracked performance using GA4, Looker Studio, and Tag Manager.
+
+**Tools used:** GA4, Looker Studio, Google Tag Manager

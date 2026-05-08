@@ -1,0 +1,30 @@
+---
+title: "Hi, I’m Saurabh Parate 👋"
+---
+
+<img src="Saurabh Parate.jpg" alt="Saurabh Parate" class="profile-photo"/>
+
+Digital Marketing & SEO Specialist with 5+ years of experience in website content management, search optimization, and performance marketing analytics.
+
+I currently work as a **Student Digital Marketing Assistant at Cal Poly Pomona**, where I manage website content, improve SEO performance, and support data-driven marketing campaigns.
+
+## What I Do
+
+- SEO & Website Optimization
+- Google Analytics (GA4), Tag Manager & Looker Studio
+- Paid Media (Google Ads, Meta Ads, LinkedIn Ads)
+- CMS-Based Website Management (Cascade CMS)
+- Performance Marketing & Data Analysis
+
+## Key Highlights
+
+- Managed **100+ website pages**, improving SEO and user experience
+- Contributed to campaigns generating **600+ qualified leads**
+- Managed a **\$10K Google Ads Grant campaign**
+- Experience across **SEO, CRO, analytics, and paid media optimization**
+
+## Get in Touch
+
+- 📧 Email: contact\@saurabhp.com
+- 💼 LinkedIn: saurabh-parate
+- 🌐 Portfolio: saurabhp.com
