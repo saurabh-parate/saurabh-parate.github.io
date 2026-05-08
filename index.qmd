@@ -1,30 +1,94 @@
 ---
-title: "Hi, I’m Saurabh Parate 👋"
+title: "Hi, I'm Saurabh Parate 👋"
+subtitle: "Digital Marketer & Marketing Analyst"
+image: "Saurabh Parate.jpg"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:contact@saurabhp.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/saurabh-parate
+    - icon: globe
+      text: Website
+      href: https://saurabhp.com
+format:
+  html:
+    toc: false
 ---
 
-<img src="Saurabh Parate.jpg" alt="Saurabh Parate" class="profile-photo"/>
 
-Digital Marketing & SEO Specialist with 5+ years of experience in website content management, search optimization, and performance marketing analytics.
+Welcome! I'm a **Digital Marketer & Marketing Analyst** with 5+ years of experience in SEO, paid media, and performance analytics. Currently pursuing my **M.S. in Digital Marketing & Analytics** at Cal Poly Pomona.
 
-I currently work as a **Student Digital Marketing Assistant at Cal Poly Pomona**, where I manage website content, improve SEO performance, and support data-driven marketing campaigns.
+🏅 Proud member of **Beta Gamma Sigma** — the international business honor society.
 
-## What I Do
+---
 
-- SEO & Website Optimization
-- Google Analytics (GA4), Tag Manager & Looker Studio
-- Paid Media (Google Ads, Meta Ads, LinkedIn Ads)
-- CMS-Based Website Management (Cascade CMS)
-- Performance Marketing & Data Analysis
+## 🚀 What I Do
 
-## Key Highlights
+| | |
+|--|--|
+| 🔍 **SEO & Optimization** | On-page, Off-page, Technical SEO |
+| 📊 **Analytics** | GA4, Looker Studio, Tag Manager |
+| 📢 **Paid Media** | Google Ads, Meta Ads, LinkedIn Ads |
+| 🖥️ **CMS Management** | Cascade CMS, 100+ pages managed |
+| 📈 **Performance Marketing** | CRO, A/B Testing, Data Analysis |
 
-- Managed **100+ website pages**, improving SEO and user experience
-- Contributed to campaigns generating **600+ qualified leads**
-- Managed a **\$10K Google Ads Grant campaign**
-- Experience across **SEO, CRO, analytics, and paid media optimization**
+---
 
-## Get in Touch
+## 🏆 Key Highlights
 
-- 📧 Email: contact\@saurabhp.com
-- 💼 LinkedIn: saurabh-parate
-- 🌐 Portfolio: saurabhp.com
+> 🌐 Managed **100+ website pages** improving SEO and user experience
+
+> 🎯 Generated **600+ qualified leads** through Google & Meta Ads
+
+> 💰 Managed a **$10K Google Ads Grant** campaign for a nonprofit
+
+> 📐 Experience across **SEO, CRO, analytics, and paid media**
+
+---
+
+## 📂 Featured Work
+
+### 🏫 Cal Poly Pomona — Student Digital Marketing Assistant
+Managing website content, improving SEO performance, and supporting data-driven marketing campaigns for the College of Business Administration.
+
+### ✈️ Ontario Airport — MSDM Capstone Project
+Developing a data-driven framework to measure community engagement ROI for Ontario International Airport.
+
+### 🤝 Trauma Resource Institute — Google Ads Volunteer
+Managing a $10K Google Ads Grant campaign and SEO strategy for a nonprofit promoting trauma resiliency.
+
+---
+
+## 💬 Let's Talk Business
+
+I love good conversations about **business strategy, startups, and growth** — whether it's scaling a brand, cracking a new market, or figuring out how to turn marketing dollars into real revenue. Always happy to connect and exchange ideas!
+
+---
+
+## 🎮✈️🍜 Beyond Marketing
+
+When I'm not analyzing data or running campaigns, you'll find me:
+
+🎮 **Gaming** — diving into immersive worlds and sharpening strategic thinking.
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRsa3gxaDA4ZHJ5N2o1b3ZmZDlzOHF1dnZ1ZWpuMXkwb2kzN3g3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bHSkKRvkRvy5chUBBp/giphy.gif){width=30%}
+
+✈️ **Travelling** — exploring new places, cultures, and people around the world.
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVpMjdzMTczNXMycmxzNHNpeTVnYnhxOWpwbXVmM3J0MGFiYmNvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AErExHJVxRbkm5hPkB/giphy.gif){width=30%}
+
+🍜 **Food** — always on the hunt for great food, from street tacos to ramen to biryani.
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY24zMzFpdmllZGdrMTNsdnQ3cmsycGFoeXZicGt4czZsbjFnNG5xNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3j0JFe7atOLYdnbwmH/giphy.gif){width=30%}
+
+---
+
+## 📬 Get in Touch
+
+- 📧 [contact@saurabhp.com](mailto:contact@saurabhp.com)
+- 💼 [linkedin.com/in/saurabh-parate](https://linkedin.com/in/saurabh-parate)
+- 🌐 [saurabhp.com](https://saurabhp.com)
