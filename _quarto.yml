@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: .
 
 website:
   title: "Saurabh Parate"
@@ -22,7 +22,6 @@ website:
 format:
   html:
     theme:
-      light: darkly
-      dark: default
+      light: flatly
+      dark: darkly
     css: styles.css
-    html-math-method: katex
