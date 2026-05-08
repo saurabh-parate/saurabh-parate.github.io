@@ -124,5 +124,26 @@
     "title": "Resume / CV",
     "section": "Education",
     "text": "Education\n\nBachelor’s Degree\nCal Poly Pomona\nDownload CV"
+  },
+  {
+    "objectID": "posts/firstpost.html",
+    "href": "posts/firstpost.html",
+    "title": "My First Post",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "posts/firstpost.html#quarto",
+    "href": "posts/firstpost.html#quarto",
+    "title": "My First Post",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "posts/firstpost.html#running-code",
+    "href": "posts/firstpost.html#running-code",
+    "title": "My First Post",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]
