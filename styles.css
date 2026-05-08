@@ -14,7 +14,7 @@
   transform: scale(1.05);
 }
 
-/* Smooth fade-in on load */
+/* Fade in on load */
 main {
   animation: fadeIn 0.8s ease-in;
 }
@@ -27,11 +27,6 @@ main {
 /* Navbar blur */
 .navbar {
   backdrop-filter: blur(10px);
-}
-
-/* Hover lift on sections */
-h2 {
-  transition: color 0.2s ease;
 }
 
 /* Links */

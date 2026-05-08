@@ -1,22 +1,63 @@
 ---
 title: "Projects"
+subtitle: "Academic & Professional Work"
+format:
+  html:
+    toc: true
+    toc-title: "Projects"
+    toc-depth: 2
 ---
 
-## Website SEO & Content Optimization
-Improved structure, navigation, and search visibility across large-scale CMS websites.
+## 🎓 Academic Projects
 
-**Tools used:** Cascade CMS, Google Search Console, Screaming Frog
+### Ontario Airport — Measuring Community Engagement ROI
+**MSDM Capstone Project** · Cal Poly Pomona
+`Fall 2025 – Summer 2026`
+
+> Developing a data-driven framework to measure and justify the ROI of community engagement for Ontario International Airport (ONT).
+
+**Client:** Ontario International Airport — Community Engagement Team
+
+**The Challenge:**
+ONT's Community Engagement Team is highly active at events, sponsorships, and civic collaborations — but lacked a way to quantify the revenue impact of these efforts.
+
+**What I'm doing:**
+- Developing metrics and models linking engagement activities to business outcomes
+- Identifying leading indicators that predict long-term revenue growth
+- Exploring cross-industry ROI measurement frameworks
+- Proposing geotargeting and digital methods to track post-event audience behavior
+
+**Methods:** Descriptive analytics · Predictive analytics · Surveys & Interviews · SEO · Dashboard Design
+
+**Timeline:**
+
+| Phase | Period | Focus |
+|-------|--------|-------|
+| Phase 1 | Fall 2025 | Research instruments, data collection |
+| Phase 2 | Spring 2026 | Data analysis, KPIs, ROI framework |
+| Phase 3 | Summer 2026 | Public report, final presentation |
+
+**Skills Gained:**
+- Marketing research & analytics
+- Data modeling and visualization
+- Digital marketing attribution (geotargeting, campaign analytics)
+- Survey/interview design
+- SEO & web publishing
 
 ---
 
-## Paid Media Campaigns
-Supported Google Ads and Meta Ads campaigns focused on lead generation and performance optimization.
+### Virtual and Augmented Reality in Digital Marketing
+**Major Project** · Amity University
+`Aug 2023 – Jan 2024`
 
-**Tools used:** Google Ads, Meta Ads Manager
+Explored the role of VR and AR technologies in modern digital marketing strategies,
+analyzing how immersive experiences impact consumer behavior and brand engagement.
 
 ---
 
-## Analytics & Reporting
-Built dashboards and tracked performance using GA4, Looker Studio, and Tag Manager.
+### Gamification in Digital Marketing
+**Minor Project** · Amity University
+`Feb 2023 – Jun 2023`
 
-**Tools used:** GA4, Looker Studio, Google Tag Manager
+Investigated how gamification techniques can be applied in digital marketing campaigns
+to boost user engagement, retention, and conversion rates.
