@@ -14,8 +14,6 @@ website:
         text: Resume
       - href: projects.qmd
         text: Projects
-      - href: blog.qmd
-        text: Blog
       - href: contact.qmd
         text: Contact
   page-footer:
