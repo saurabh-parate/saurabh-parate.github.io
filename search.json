@@ -100,30 +100,30 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Resume / CV",
+    "title": "Saurabh Parate",
     "section": "",
-    "text": "Cal Poly Pomona | 2022 – Present\n\nManaged 100+ website pages for SEO and user experience\nManaged a $10K Google Ads Grant campaign\nContributed to campaigns generating 600+ qualified leads"
+    "text": "Digital Marketer with 4+ years of experience in SEO, digital advertising, and social media strategies. Currently pursuing M.S. in Digital Marketing & Analytics at Cal Poly Pomona. Proven track record in increasing brand awareness, social media engagement, and web traffic. Expertise in B2B, B2C, and corporate communications."
   },
   {
     "objectID": "resume.html#experience",
     "href": "resume.html#experience",
-    "title": "Resume / CV",
-    "section": "",
-    "text": "Cal Poly Pomona | 2022 – Present\n\nManaged 100+ website pages for SEO and user experience\nManaged a $10K Google Ads Grant campaign\nContributed to campaigns generating 600+ qualified leads"
+    "title": "Saurabh Parate",
+    "section": "Experience",
+    "text": "Experience\n\nStudent Digital Marketing Assistant\nCal Poly Pomona (CBA) · Pomona, CA · Oct 2024 – Present\n\nUpdated 100+ webpages for the new Cal Poly Pomona website using Cascade CMS\nGenerated 600+ admission leads for CBA through Google Ads and Meta Ads campaigns\nSupported the MarComm team in promoting campus events and enhancing CBA’s digital presence\n\n\n\nDigital Marketing Volunteer (Micro-Internship)\nTrauma Resource Institute · Claremont, CA · Oct 2024 – Apr 2025\n\nAssisted TRI team in social media optimization to enhance visibility and engagement\nManaged a $10K Google Ads campaign promoting the Trauma Resiliency Model (TRM)\nOversaw the SEO strategy for the TRI website to improve organic search rankings\n\n\n\nDigital Marketing Assistant Manager\nAnaccord Web World Pvt. Ltd. · Nashik, India · Mar 2024 – Jul 2024\n\nLed digital marketing for a Lok Sabha MP election campaign\nManaged a team of graphic designers and video editors\nHandled social media organic campaigns across Facebook, Instagram, and YouTube\nManaged ₹10L Google Ads and ₹10L Meta Ads budgets over 3 months\n\n\n\nSr. Digital Marketing Executive\nGreat Ideas in Action LLP. · Nashik, India · Sept 2022 – Sept 2023\n\nManaged digital marketing for 6+ projects across Electronics, E-commerce, Jewellery, Home Services, and more\nSEO: Optimized websites across Google, Bing, Yahoo, and DuckDuckGo; conducted keyword research and link-building\nLead Generation: Ran campaigns on Google Ads, Facebook, LinkedIn, Amazon, Pinterest, and Quora\nPPC: Managed multi-platform campaigns focusing on ROI and A/B testing\nData Analysis: Provided insights using Google Analytics, Search Console, Microsoft Clarity, and Looker\n\n\n\nSEO Executive\nSimplified Software Solutions · Mumbai, India · Jun 2022 – Sept 2022\n\nManaged SEO for 3+ projects in Agriculture, Online Education, SaaS, and Medical sectors\nConducted keyword research, site audits, and content optimization\nLed link-building and optimized landing pages for Google & Meta Ads\n\n\n\nDigital Marketing Assistant\nMitra Agro Equipment Pvt. Ltd. · Nashik, India · Mar 2020 – Jun 2022\n\nExecuted digital campaigns across Google Ads, Facebook, Quora, Bing, LinkedIn, and Pinterest\nManaged SEO, Google Search Console, and Google My Business\nTracked data via Google Tag Manager and Analytics (UA & GA4)\nLed WhatsApp, SMS, and Email marketing strategies\n\n\n\nDigital Marketing Intern\nMitra Agro Equipment Pvt. Ltd. · Nashik, India · Dec 2019 – Mar 2020\n\nSupported organic growth through Facebook, WhatsApp, YouTube, Instagram, and LinkedIn\nCreated engaging content for social media posts\nManaged digital customer data for targeted marketing"
   },
   {
     "objectID": "resume.html#skills",
     "href": "resume.html#skills",
-    "title": "Resume / CV",
+    "title": "Saurabh Parate",
     "section": "Skills",
-    "text": "Skills\n\nSEO & Website Optimization\nGoogle Analytics (GA4), Tag Manager & Looker Studio\nPaid Media (Google Ads, Meta Ads, LinkedIn Ads)\nCMS-Based Website Management (Cascade CMS)\nPerformance Marketing & Data Analysis"
+    "text": "Skills\n\nMarket Research & Competitor Analysis\nData Analysis (Google Analytics, Looker Studio, Microsoft Clarity)\nAds Development & Optimization (Google Ads, Meta Ads, LinkedIn Ads)\nSocial Media Marketing (Facebook, Instagram, LinkedIn, Twitter, YouTube)\nWebsite SEO & Technical Analysis (On-page, Off-page, Keyword Research, Link Building)\nWebsite Content Optimization (Blogs, Landing Pages, Meta Tags)\nMarketing Automation (Email, SMS, WhatsApp Campaigns)\nMicrosoft Office Suite (Excel, PowerPoint, Word)"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Resume / CV",
+    "title": "Saurabh Parate",
     "section": "Education",
-    "text": "Education\n\nBachelor’s Degree\nCal Poly Pomona\nDownload CV"
+    "text": "Education\n\nMaster of Science, Digital Marketing and Analytics\nCalifornia State Polytechnic University, Pomona · Aug 2024 – Present\n\n\nMaster of Business Administration, Digital Marketing\nAmity University, Noida, India · Jan 2022 – Jan 2024\n\n\nBachelor of Technology, Agriculture Engineering\nK.K.W College of Agriculture Engineering and Technology, Nashik · Aug 2015 – Jul 2020"
   },
   {
     "objectID": "posts/firstpost.html",
@@ -145,5 +145,26 @@
     "title": "My First Post",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Saurabh Parate",
+    "section": "",
+    "text": "Digital Marketer with 4+ years of experience in SEO, digital advertising, and social media strategies. Currently pursuing M.S. in Digital Marketing & Analytics at Cal Poly Pomona. Proven track record in increasing brand awareness, social media engagement, and web traffic. Expertise in B2B, B2C, and corporate communications."
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Saurabh Parate",
+    "section": "Certifications",
+    "text": "Certifications\n\nGoogle: Ads Search, Display, Video, Shopping, Measurement, AI-Powered Performance, Digital Garage\nHubSpot: Digital Marketing, Inbound Marketing, Social Media, Content Marketing, SEO (Level I & II), Email Marketing\nOther: SEMrush SEO Toolkit, Microsoft Advertising, Amazon Sponsored Ads, LinkedIn Marketing Solutions & Strategy"
+  },
+  {
+    "objectID": "resume.html#contact",
+    "href": "resume.html#contact",
+    "title": "Saurabh Parate",
+    "section": "Contact",
+    "text": "Contact\n\n📧 contact@saurabhp.com\n📞 (840)-243-8505\n🌐 saurabhp.com\n💼 linkedin.com/in/saurabh-parate"
   }
 ]

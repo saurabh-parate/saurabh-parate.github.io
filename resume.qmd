@@ -1,31 +1,151 @@
 ---
-title: "Resume / CV"
+title: "Saurabh Parate"
+subtitle: "Digital Marketer & Marketing Analyst"
+format:
+  html:
+    toc: true
+    toc-title: "On This Page"
+    toc-depth: 2
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-## Experience
+## 👋 Professional Summary
 
-### Student Digital Marketing Assistant
-**Cal Poly Pomona** | 2022 – Present
+Digital Marketer with **4+ years of experience** in SEO, digital
+advertising, and social media strategies. Currently pursuing **M.S. in
+Digital Marketing & Analytics** at Cal Poly Pomona.
 
-- Managed 100+ website pages for SEO and user experience
-- Managed a $10K Google Ads Grant campaign
-- Contributed to campaigns generating 600+ qualified leads
+------------------------------------------------------------------------
 
----
+## 💼 Experience
 
-## Skills
+#### 🏫 Student Digital Marketing Assistant
 
-- SEO & Website Optimization
-- Google Analytics (GA4), Tag Manager & Looker Studio
-- Paid Media (Google Ads, Meta Ads, LinkedIn Ads)
-- CMS-Based Website Management (Cascade CMS)
-- Performance Marketing & Data Analysis
+**Cal Poly Pomona (CBA)** · Pomona, CA `Oct 2024 – Present`
 
----
+> Updated 100+ webpages · Generated 600+ leads · Managed Google & Meta
+> Ads campaigns
 
-## Education
+- Updated 100+ webpages using Cascade CMS
+- Generated 600+ admission leads via Google Ads and Meta Ads
+- Supported campus event promotions and CBA's digital presence
 
-### Bachelor's Degree
-**Cal Poly Pomona**
+------------------------------------------------------------------------
 
-[Download CV](your-cv.pdf)
+#### 🤝 Digital Marketing Volunteer
+
+**Trauma Resource Institute** · Claremont, CA `Oct 2024 – Apr 2025`
+
+> \$10K Google Ads · SEO Strategy · Social Media Optimization
+
+- Managed a \$10K Google Ads Grant campaign for the TRM program
+- Oversaw SEO strategy to improve organic search rankings
+- Optimized social media for visibility and engagement
+
+------------------------------------------------------------------------
+
+#### 📢 Digital Marketing Assistant Manager
+
+**Anaccord Web World Pvt. Ltd.** · Nashik, India `Mar 2024 – Jul 2024`
+
+> Election Campaign · ₹10L Google Ads · ₹10L Meta Ads
+
+- Led digital marketing for a Lok Sabha MP election campaign
+- Managed team of graphic designers and video editors
+- Handled ₹10L Google Ads and ₹10L Meta Ads budgets
+
+------------------------------------------------------------------------
+
+#### 📈 Sr. Digital Marketing Executive
+
+**Great Ideas in Action LLP.** · Nashik, India `Sept 2022 – Sept 2023`
+
+> 6+ Projects · SEO · PPC · Lead Gen · Data Analysis
+
+- Managed marketing for 6+ projects across E-commerce, Jewellery, SaaS,
+  and more
+- Ran campaigns on Google, Facebook, LinkedIn, Amazon, Pinterest, and
+  Quora
+- Delivered insights via Google Analytics, Search Console, and Looker
+  Studio
+
+------------------------------------------------------------------------
+
+#### 🔍 SEO Executive
+
+**Simplified Software Solutions** · Mumbai, India `Jun 2022 – Sept 2022`
+
+- Managed SEO for 3+ projects in Agriculture, Education, SaaS, and
+  Medical
+- Conducted keyword research, site audits, and content optimization
+- Optimized landing pages for Google & Meta Ads
+
+------------------------------------------------------------------------
+
+#### 📣 Digital Marketing Assistant
+
+**Mitra Agro Equipment Pvt. Ltd.** · Nashik, India `Mar 2020 – Jun 2022`
+
+- Executed campaigns across Google, Facebook, LinkedIn, Quora, and
+  Pinterest
+- Managed SEO, Google Search Console, and Google My Business
+- Led WhatsApp, SMS, and Email marketing strategies
+
+------------------------------------------------------------------------
+
+#### 🎓 Digital Marketing Intern
+
+**Mitra Agro Equipment Pvt. Ltd.** · Nashik, India `Dec 2019 – Mar 2020`
+
+- Supported organic growth across Facebook, YouTube, Instagram, and
+  LinkedIn
+- Created social media content and assisted with video editing
+
+------------------------------------------------------------------------
+
+## 🎓 Education
+
+| Degree                             | Institution             | Year           |
+|----------------------|--------------------------------|------------------|
+| M.S. Digital Marketing & Analytics | Cal Poly Pomona         | 2024 – Present |
+| MBA, Digital Marketing             | Amity University, India | 2022 – 2024    |
+| B.Tech, Agriculture Engineering    | K.K.W College, Nashik   | 2015 – 2020    |
+
+------------------------------------------------------------------------
+
+## 🛠️ Skills
+
+| Category     | Tools & Skills                                           |
+|--------------|----------------------------------------------------------|
+| Analytics    | Google Analytics (GA4), Looker Studio, Microsoft Clarity |
+| Paid Ads     | Google Ads, Meta Ads, LinkedIn Ads                       |
+| SEO          | On-page, Off-page, Keyword Research, Link Building       |
+| Social Media | Facebook, Instagram, LinkedIn, Twitter, YouTube          |
+| Automation   | Email, SMS, WhatsApp Campaigns                           |
+| Other        | Microsoft Office Suite, CRM (Vtiger)                     |
+
+------------------------------------------------------------------------
+
+## 🏆 Certifications
+
+**Google** — Ads Search, Display, Video, Shopping, Measurement,
+AI-Powered Performance, Digital Garage
+
+**HubSpot** — Digital Marketing, Inbound Marketing, Social Media,
+Content Marketing, SEO (I & II), Email Marketing
+
+**Other** — SEMrush SEO Toolkit, Microsoft Advertising, Amazon Sponsored
+Ads, LinkedIn Marketing Solutions
+
+------------------------------------------------------------------------
+
+## 📬 Contact
+
+|  |  |
+|------------------------------------|------------------------------------|
+| 📧 Email | contact\@saurabhp.com |
+| 📞 Phone | (840)-243-8505 |
+| 🌐 Website | [saurabhp.com](https://saurabhp.com) |
+| 💼 LinkedIn | [linkedin.com/in/saurabh-parate](https://linkedin.com/in/saurabh-parate) |
