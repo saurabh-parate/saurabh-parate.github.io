@@ -108,7 +108,7 @@ Digital Marketing & Analytics** at Cal Poly Pomona.
 ## 🎓 Education
 
 | Degree                             | Institution             | Year           |
-|----------------------|--------------------------------|------------------|
+|------------------------------------|-------------------------|----------------|
 | M.S. Digital Marketing & Analytics | Cal Poly Pomona         | 2024 – Present |
 | MBA, Digital Marketing             | Amity University, India | 2022 – 2024    |
 | B.Tech, Agriculture Engineering    | K.K.W College, Nashik   | 2015 – 2020    |
@@ -144,7 +144,7 @@ Ads, LinkedIn Marketing Solutions
 ## 📬 Contact
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | 📧 Email | contact\@saurabhp.com |
 | 📞 Phone | (840)-243-8505 |
 | 🌐 Website | [saurabhp.com](https://saurabhp.com) |
