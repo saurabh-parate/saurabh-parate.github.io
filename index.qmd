@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Saurabh Parate 👋 code test"
+title: "Hi, I'm Saurabh Parate 👋"
 subtitle: "Digital Marketer & Marketing Analyst"
 image: "Saurabh Parate.jpg"
 about:
