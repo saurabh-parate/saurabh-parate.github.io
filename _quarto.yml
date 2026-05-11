@@ -24,8 +24,6 @@ website:
             text: Website Traffic
       - href: presentation.qmd
         text: Presentation
-      - href: contact.qmd
-        text: Contact
 
   page-footer:
     background: dark
