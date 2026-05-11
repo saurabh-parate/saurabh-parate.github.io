@@ -208,5 +208,47 @@
     "title": "Contact",
     "section": "",
     "text": "I’d love to connect! Feel free to reach out through any of the channels below.\n\n\n📧 Email: contact@saurabhp.com\n💼 LinkedIn: saurabh-parate\n🌐 Website: saurabhp.com\n📞 Phone: (840)-243-8505"
+  },
+  {
+    "objectID": "digital-marketing.html",
+    "href": "digital-marketing.html",
+    "title": "Digital Marketing",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "digital-marketing.html#quarto",
+    "href": "digital-marketing.html#quarto",
+    "title": "Digital Marketing",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "digital-marketing.html#running-code",
+    "href": "digital-marketing.html#running-code",
+    "title": "Digital Marketing",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "marketing-analytics.html#quarto",
+    "href": "marketing-analytics.html#quarto",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "marketing-analytics.html#running-code",
+    "href": "marketing-analytics.html#running-code",
+    "title": "Marketing Analytics",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]

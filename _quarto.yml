@@ -10,12 +10,23 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: Projects
+        menu:
+          - href: digital-marketing.qmd
+            text: Digital Marketing
+          - href: marketing-analytics.qmd
+            text: Marketing Analytics
       - href: resume.qmd
         text: Resume
-      - href: projects.qmd
-        text: Projects
+      - text: Analytics
+        menu:
+          - href: website-traffic.qmd
+            text: Website Traffic
+      - href: presentation.qmd
+        text: Presentation
       - href: contact.qmd
         text: Contact
+
   page-footer:
     background: dark
     left: "© 2025 Saurabh Parate"
@@ -34,3 +45,4 @@ format:
       light: darkly
       dark: flatly
     css: styles.css
+    google-analytics: "G-P6GH9FKZQW"
