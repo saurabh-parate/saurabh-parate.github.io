@@ -4,25 +4,23 @@ title: "Website Traffic Analytics"
 
 ## 📊 Live Website Analytics Dashboard
 
-<iframe width="800px" height="500px" src="https://datastudio.google.com/embed/reporting/d81784d4-f264-41dc-975c-eda9c2d4c87e/page/kIV1C" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+🔗 [View Full Dashboard](https://datastudio.google.com/embed/reporting/d81784d4-f264-41dc-975c-eda9c2d4c87e/)
 
-## Quarto
+<iframe width="800px" height="500px" src="https://datastudio.google.com/embed/reporting/d81784d4-f264-41dc-975c-eda9c2d4c87e/page/kIV1C" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+</iframe>
 
-## Running Code
+## 📈 Overview
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+This dashboard tracks website performance using Google Analytics 4.
 
-```{r}
-1 + 1
-```
+## 🎯 Key Metrics
 
-You can add options to executable code like this
+- Users and Sessions\
+- Traffic Sources\
+- Page Views\
+- Engagement Time
 
-```{r}
-#| echo: false
-2 * 2
-```
+## 📊 Note
 
-The `echo: false` option disables the printing of code (only output is displayed).
+This website is newly launched, so data is currently limited. Analytics tracking is set up and will be used to monitor performance over time.

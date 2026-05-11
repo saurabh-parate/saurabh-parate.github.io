@@ -1,26 +1,56 @@
 ---
 title: "Marketing Analytics"
-format: html
-editor: visual
 ---
 
-## Quarto
+## 📊 Overview
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+This page highlights my ability to use data and analytics to measure marketing performance, generate insights, and support data-driven decision making.
 
-## Running Code
+---
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## ✈️ Ontario Airport Analytics Project
 
-```{r}
-1 + 1
-```
+This project analyzes the relationship between **community engagement, social media performance, and passenger traffic** for Ontario International Airport.
 
-You can add options to executable code like this
+---
 
-```{r}
-#| echo: false
-2 * 2
-```
+## 🔗 Project Reports
 
-The `echo: false` option disables the printing of code (only output is displayed).
+- 📈 [Social Media Profile vs Passengers](https://connect-saurabh.github.io/ontario-airport/Profiles)
+- 📊 [Community Engagement & Passenger Data](https://connect-saurabh.github.io/ontario-airport/CE%20data%20and%20Passenger%20data)
+- 📉 [Advanced Analytics & Simulation (AO4)](https://connect-saurabh.github.io/ontario-airport/Ontario%20Airport%20A04)
+
+---
+
+## 📈 Key Insights
+
+- Social media **engagement has a strong relationship with passenger volume**
+- A **20% increase in engagement** is associated with approximately **$5.7M in incremental value**
+- **Fall and Summer** show the highest growth potential
+- Airlines like **Southwest and Frontier** respond strongly to engagement efforts
+
+---
+
+## 📊 What I Did
+
+- Data cleaning and preparation  
+- Correlation and regression analysis  
+- Predictive modeling  
+- Scenario simulation (+10%, +20%, +30%)  
+- ROI estimation  
+- Data visualization  
+
+---
+
+## 🛠 Tools Used
+
+- R (dplyr, ggplot2, tidyr)  
+- Google Analytics  
+- Looker Studio  
+- Excel  
+
+---
+
+## 💡 Key Takeaway
+
+This project demonstrates how marketing analytics can connect **engagement metrics to real business outcomes**, helping organizations make data-driven decisions.

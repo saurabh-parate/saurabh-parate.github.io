@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hi, I’m Saurabh Parate 👋",
     "section": "",
-    "text": "Welcome! I’m a Digital Marketer & Marketing Analyst with 5+ years of experience in SEO, paid media, and performance analytics. Currently pursuing my M.S. in Digital Marketing & Analytics at Cal Poly Pomona.\n🏅 Proud member of Beta Gamma Sigma — the international business honor society."
+    "text": "Welcome! I’m a Digital Marketer & Marketing Analyst with 5+ years of experience in SEO, paid media, and performance analytics. Currently pursuing my M.S. in Digital Marketing & Analytics at Cal Poly Pomona."
   },
   {
     "objectID": "about.html",
@@ -214,7 +214,7 @@
     "href": "digital-marketing.html",
     "title": "Digital Marketing",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "This page highlights my experience in digital marketing, including SEO, paid media, social media marketing, and performance optimization."
   },
   {
     "objectID": "digital-marketing.html#quarto",
@@ -235,7 +235,7 @@
     "href": "marketing-analytics.html",
     "title": "Marketing Analytics",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "This page highlights my ability to use data and analytics to measure marketing performance, generate insights, and support data-driven decision making."
   },
   {
     "objectID": "marketing-analytics.html#quarto",
@@ -254,9 +254,9 @@
   {
     "objectID": "website-analytics.html",
     "href": "website-analytics.html",
-    "title": "Website Analytics",
+    "title": "Website Traffic Analytics",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "🔗 View Full Dashboard"
   },
   {
     "objectID": "website-analytics.html#quarto",
@@ -292,5 +292,117 @@
     "title": "Presentation",
     "section": "Code",
     "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  },
+  {
+    "objectID": "website-analytics.html#overview",
+    "href": "website-analytics.html#overview",
+    "title": "Website Traffic Analytics",
+    "section": "📈 Overview",
+    "text": "📈 Overview\nThis dashboard tracks website performance using Google Analytics 4."
+  },
+  {
+    "objectID": "website-analytics.html#key-metrics",
+    "href": "website-analytics.html#key-metrics",
+    "title": "Website Traffic Analytics",
+    "section": "🎯 Key Metrics",
+    "text": "🎯 Key Metrics\n\nUsers and Sessions\n\nTraffic Sources\n\nPage Views\n\nEngagement Time"
+  },
+  {
+    "objectID": "website-analytics.html#note",
+    "href": "website-analytics.html#note",
+    "title": "Website Traffic Analytics",
+    "section": "📊 Note",
+    "text": "📊 Note\nThis website is newly launched, so data is currently limited. Analytics tracking is set up and will be used to monitor performance over time."
+  },
+  {
+    "objectID": "website-analytics.html#live-website-analytics-dashboard",
+    "href": "website-analytics.html#live-website-analytics-dashboard",
+    "title": "Website Traffic Analytics",
+    "section": "",
+    "text": "🔗 View Full Dashboard"
+  },
+  {
+    "objectID": "digital-marketing.html#overview",
+    "href": "digital-marketing.html#overview",
+    "title": "Digital Marketing",
+    "section": "",
+    "text": "This page highlights my experience in digital marketing, including SEO, paid media, social media marketing, and performance optimization."
+  },
+  {
+    "objectID": "digital-marketing.html#key-experience",
+    "href": "digital-marketing.html#key-experience",
+    "title": "Digital Marketing",
+    "section": "🚀 Key Experience",
+    "text": "🚀 Key Experience\n\n🎓 Cal Poly Pomona — Digital Marketing Assistant\n\nManaged and updated 100+ website pages using Cascade CMS\n\nSupported digital campaigns for college events\n\nGenerated 600+ qualified leads through Google Ads and Meta Ads\n\n\n\n\n🤝 Trauma Resource Institute — Google Ads & SEO\n\nManaged a $10K/month Google Ads Grant campaign\n\nImproved visibility through SEO and content optimization\n\nSupported social media engagement strategies\n\n\n\n\n💼 Industry Experience\nWorked across multiple industries including: - E-commerce\n- Electronics\n- Agriculture\n- SaaS\n- Education\n- Home services\nHandled: - SEO (on-page, off-page, technical)\n- Paid Ads (Google, Meta, LinkedIn)\n- Social media campaigns\n- Lead generation and funnel optimization"
+  },
+  {
+    "objectID": "digital-marketing.html#skills-tools",
+    "href": "digital-marketing.html#skills-tools",
+    "title": "Digital Marketing",
+    "section": "📊 Skills & Tools",
+    "text": "📊 Skills & Tools\n\nSEO: Keyword research, technical SEO, link building\n\nPaid Media: Google Ads, Meta Ads, LinkedIn Ads\n\nAnalytics: Google Analytics, Search Console, Looker Studio\n\nOptimization: A/B testing, CRO, landing pages\n\nTools: SEMrush, Tag Manager, Microsoft Clarity"
+  },
+  {
+    "objectID": "digital-marketing.html#results",
+    "href": "digital-marketing.html#results",
+    "title": "Digital Marketing",
+    "section": "🎯 Results",
+    "text": "🎯 Results\n\nGenerated 600+ leads through paid campaigns\n\nManaged ₹20L+ ad budget across platforms\n\nImproved website performance and SEO rankings\n\nDelivered data-driven insights for marketing decisions"
+  },
+  {
+    "objectID": "digital-marketing.html#approach",
+    "href": "digital-marketing.html#approach",
+    "title": "Digital Marketing",
+    "section": "💡 Approach",
+    "text": "💡 Approach\nI focus on combining strategy, execution, and data analysis to create marketing campaigns that drive measurable business results."
+  },
+  {
+    "objectID": "marketing-analytics.html#overview",
+    "href": "marketing-analytics.html#overview",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "This page highlights my ability to use data and analytics to measure marketing performance, generate insights, and support data-driven decision making."
+  },
+  {
+    "objectID": "marketing-analytics.html#ontario-airport-analytics-project",
+    "href": "marketing-analytics.html#ontario-airport-analytics-project",
+    "title": "Marketing Analytics",
+    "section": "✈️ Ontario Airport Analytics Project",
+    "text": "✈️ Ontario Airport Analytics Project\nThis project analyzes the relationship between community engagement, social media performance, and passenger traffic for Ontario International Airport."
+  },
+  {
+    "objectID": "marketing-analytics.html#project-reports",
+    "href": "marketing-analytics.html#project-reports",
+    "title": "Marketing Analytics",
+    "section": "🔗 Project Reports",
+    "text": "🔗 Project Reports\n\n📈 Social Media Profile vs Passengers\n📊 Community Engagement & Passenger Data\n📉 Advanced Analytics & Simulation (AO4)"
+  },
+  {
+    "objectID": "marketing-analytics.html#key-insights",
+    "href": "marketing-analytics.html#key-insights",
+    "title": "Marketing Analytics",
+    "section": "📈 Key Insights",
+    "text": "📈 Key Insights\n\nSocial media engagement has a strong relationship with passenger volume\nA 20% increase in engagement is associated with approximately $5.7M in incremental value\nFall and Summer show the highest growth potential\nAirlines like Southwest and Frontier respond strongly to engagement efforts"
+  },
+  {
+    "objectID": "marketing-analytics.html#what-i-did",
+    "href": "marketing-analytics.html#what-i-did",
+    "title": "Marketing Analytics",
+    "section": "📊 What I Did",
+    "text": "📊 What I Did\n\nData cleaning and preparation\n\nCorrelation and regression analysis\n\nPredictive modeling\n\nScenario simulation (+10%, +20%, +30%)\n\nROI estimation\n\nData visualization"
+  },
+  {
+    "objectID": "marketing-analytics.html#tools-used",
+    "href": "marketing-analytics.html#tools-used",
+    "title": "Marketing Analytics",
+    "section": "🛠 Tools Used",
+    "text": "🛠 Tools Used\n\nR (dplyr, ggplot2, tidyr)\n\nGoogle Analytics\n\nLooker Studio\n\nExcel"
+  },
+  {
+    "objectID": "marketing-analytics.html#key-takeaway",
+    "href": "marketing-analytics.html#key-takeaway",
+    "title": "Marketing Analytics",
+    "section": "💡 Key Takeaway",
+    "text": "💡 Key Takeaway\nThis project demonstrates how marketing analytics can connect engagement metrics to real business outcomes, helping organizations make data-driven decisions."
   }
 ]

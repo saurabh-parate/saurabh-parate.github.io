@@ -1,26 +1,66 @@
 ---
 title: "Digital Marketing"
-format: html
-editor: visual
 ---
 
-## Quarto
+## 📈 Overview
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+This page highlights my experience in digital marketing, including SEO, paid media, social media marketing, and performance optimization.
 
-## Running Code
+---
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## 🚀 Key Experience
 
-```{r}
-1 + 1
-```
+### 🎓 Cal Poly Pomona — Digital Marketing Assistant
+- Managed and updated 100+ website pages using Cascade CMS  
+- Supported digital campaigns for college events  
+- Generated **600+ qualified leads** through Google Ads and Meta Ads  
 
-You can add options to executable code like this
+---
 
-```{r}
-#| echo: false
-2 * 2
-```
+### 🤝 Trauma Resource Institute — Google Ads & SEO
+- Managed a **$10K/month Google Ads Grant campaign**  
+- Improved visibility through SEO and content optimization  
+- Supported social media engagement strategies  
 
-The `echo: false` option disables the printing of code (only output is displayed).
+---
+
+### 💼 Industry Experience
+
+Worked across multiple industries including:
+- E-commerce  
+- Electronics  
+- Agriculture  
+- SaaS  
+- Education  
+- Home services  
+
+Handled:
+- SEO (on-page, off-page, technical)  
+- Paid Ads (Google, Meta, LinkedIn)  
+- Social media campaigns  
+- Lead generation and funnel optimization  
+
+---
+
+## 📊 Skills & Tools
+
+- **SEO:** Keyword research, technical SEO, link building  
+- **Paid Media:** Google Ads, Meta Ads, LinkedIn Ads  
+- **Analytics:** Google Analytics, Search Console, Looker Studio  
+- **Optimization:** A/B testing, CRO, landing pages  
+- **Tools:** SEMrush, Tag Manager, Microsoft Clarity  
+
+---
+
+## 🎯 Results
+
+- Generated **600+ leads** through paid campaigns  
+- Managed **₹20L+ ad budget** across platforms  
+- Improved website performance and SEO rankings  
+- Delivered data-driven insights for marketing decisions  
+
+---
+
+## 💡 Approach
+
+I focus on combining **strategy, execution, and data analysis** to create marketing campaigns that drive measurable business results.
