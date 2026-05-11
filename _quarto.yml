@@ -43,4 +43,4 @@ format:
       light: darkly
       dark: flatly
     css: styles.css
-    google-analytics: "G-P6GH9FKZQW"
+    include-in-header: ga.html
