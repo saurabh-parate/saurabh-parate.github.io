@@ -1,0 +1,44 @@
+---
+title: "Project Submission"
+---
+
+## 📌 Term Project Submission
+
+### 🌐 Website URL
+
+👉 <https://saurabh-parate.github.io/>
+
+------------------------------------------------------------------------
+
+### 💻 GitHub Repository
+
+👉 <https://github.com/saurabh-parate/saurabh-parate.github.io>
+
+------------------------------------------------------------------------
+
+### 📄 Description
+
+This portfolio website was built using Quarto to showcase my experience in **Digital Marketing and Marketing Analytics**.
+
+The website includes: - Digital Marketing projects and experience\
+- Marketing Analytics project (Ontario Airport analysis)\
+- Website traffic analytics dashboard using Google Analytics and Looker Studio\
+- Resume and professional profile
+
+------------------------------------------------------------------------
+
+### 🎯 Target Audience
+
+The website is designed for: - Recruiters\
+- Hiring managers\
+- Organizations looking for data-driven marketing professionals
+
+------------------------------------------------------------------------
+
+### 🛠 Tools Used
+
+- Quarto\
+- R (dplyr, ggplot2)\
+- Google Analytics 4\
+- Looker Studio\
+- Google Ads & Meta Ads

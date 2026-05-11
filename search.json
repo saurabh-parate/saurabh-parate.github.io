@@ -488,5 +488,33 @@
     "title": "Digital Marketing & Analytics Portfolio",
     "section": "🙌 Thank You",
     "text": "🙌 Thank You\n\n📧 contact@saurabhp.com\n\n💼 linkedin.com/in/saurabh-parate\n\n🌐 saurabhp.com"
+  },
+  {
+    "objectID": "project-submission.html",
+    "href": "project-submission.html",
+    "title": "Project Submission",
+    "section": "",
+    "text": "👉 https://saurabh-parate.github.io/\n\n\n\n\n👉 https://github.com/saurabh-parate/saurabh-parate.github.io\n\n\n\n\nThis portfolio website was built using Quarto to showcase my experience in Digital Marketing and Marketing Analytics.\nThe website includes: - Digital Marketing projects and experience\n- Marketing Analytics project (Ontario Airport analysis)\n- Website traffic analytics dashboard using Google Analytics and Looker Studio\n- Resume and professional profile\n\n\n\n\nThe website is designed for: - Recruiters\n- Hiring managers\n- Organizations looking for data-driven marketing professionals\n\n\n\n\n\nQuarto\n\nR (dplyr, ggplot2)\n\nGoogle Analytics 4\n\nLooker Studio\n\nGoogle Ads & Meta Ads"
+  },
+  {
+    "objectID": "project-submission.html#quarto",
+    "href": "project-submission.html#quarto",
+    "title": "Project Submission",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "project-submission.html#running-code",
+    "href": "project-submission.html#running-code",
+    "title": "Project Submission",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "project-submission.html#term-project-submission",
+    "href": "project-submission.html#term-project-submission",
+    "title": "Project Submission",
+    "section": "",
+    "text": "👉 https://saurabh-parate.github.io/\n\n\n\n\n👉 https://github.com/saurabh-parate/saurabh-parate.github.io\n\n\n\n\nThis portfolio website was built using Quarto to showcase my experience in Digital Marketing and Marketing Analytics.\nThe website includes: - Digital Marketing projects and experience\n- Marketing Analytics project (Ontario Airport analysis)\n- Website traffic analytics dashboard using Google Analytics and Looker Studio\n- Resume and professional profile\n\n\n\n\nThe website is designed for: - Recruiters\n- Hiring managers\n- Organizations looking for data-driven marketing professionals\n\n\n\n\n\nQuarto\n\nR (dplyr, ggplot2)\n\nGoogle Analytics 4\n\nLooker Studio\n\nGoogle Ads & Meta Ads"
   }
 ]
