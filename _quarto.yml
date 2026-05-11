@@ -22,7 +22,7 @@ website:
         menu:
           - href: website-analytics.html
             text: Website Traffic
-      - href: presentation.qmd
+      - href: presentation.html
         text: Presentation
 
   page-footer:
