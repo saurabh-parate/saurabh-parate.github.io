@@ -20,7 +20,7 @@ website:
         text: Resume
       - text: Analytics
         menu:
-          - href: website-traffic.html
+          - href: website-analytics.html
             text: Website Traffic
       - href: presentation.qmd
         text: Presentation
