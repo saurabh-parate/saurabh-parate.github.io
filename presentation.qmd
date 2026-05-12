@@ -101,7 +101,8 @@ Ontario Airport Analytics Project:
 
 - Google Analytics, Looker Studio\
 - R (data analysis & modeling)\
-- SEO & CRO
+- Quarto
+- Positron
 
 ------------------------------------------------------------------------
 
