@@ -99,7 +99,6 @@ Ontario Airport Analytics Project:
 
 ## 🛠 Tools & Skills
 
-- Google Ads, Meta Ads\
 - Google Analytics, Looker Studio\
 - R (data analysis & modeling)\
 - SEO & CRO
